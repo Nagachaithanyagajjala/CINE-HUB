@@ -1,0 +1,10 @@
+.videoPlayer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+.video{
+    height: 400px;
+    width: 800px;
+}
